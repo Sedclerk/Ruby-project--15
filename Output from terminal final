@@ -1,9 +1,16 @@
 
 
 Mac-Book-Pro-Sedclerk:desktop Sedclerk$ ruby Project15.rb
+Steve
 Deposited $40.45. Your new balance is $40.45
 You took $20.15 amount. Your new balance is $20.30
+Jeron
 Deposited $100.25. Your new balance is $100.25
 Deposited $20.25. Your new balance is $120.50
 Deposited $20.25 to Jeron's account. Your current balance  is $0.05
+ Sorry, you are broke. You only have this $0.05 left on your account
+ Sorry, you are broke. You only have this $0.05 left on your account
+Error: Invalid Input on Deposit
+Invalid input , that is not a name my friend
+Error: Invalid Input on Withdrawal
 Mac-Book-Pro-Sedclerk:desktop Sedclerk$ 
